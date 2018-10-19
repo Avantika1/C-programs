@@ -12,6 +12,7 @@ This repo contains c++ programs from beginner level to expert level
 - ``Ctrl + F9`` = Compile
 - ``Alt + F5`` = To have a look of output
 - ``Ctrl+F2`` = Program reset
+- ``Alt+Bksp`` = Undo
 
 ### Author - M.Anantha Vijay
 
